@@ -1,10 +1,8 @@
 Job Market Analytics Using Python
 
-This project analyzes a dataset of global job market trends with a focus on AI adoption, automation risk, required skills, salary distribution, and remote work potential. It was created as part of a Data Analytics and Business Intelligence course.
+This is a personal project analyzing a dataset of global job market trends, focusing on AI adoption, automation risk, required skills, salary distribution, and remote work potential. The project aims to develop skills in data analysis, visualization, and business intelligence using Python.
 
-
- Dataset
-
+ Dataset :
 - File: `ai_job_market_insights.csv`
 - Contains job-related data including:
   - Job title
@@ -19,17 +17,15 @@ This project analyzes a dataset of global job market trends with a focus on AI a
   - Growth projections
 
 
-Tools & Libraries Used
+Tools & Libraries Used :
+- Python
+- Pandas
+- Seaborn & Matplotlib (visualization)
+- Folium (geospatial visualization)
+- Git & GitHub
 
-- **Python**
-- **Pandas**
-- **Seaborn & Matplotlib** (visualization)
-- **Folium** (geospatial visualization)
-- **Git & GitHub**
 
-
- Key Analyses
-
+ Key Analyses :
 - Top 10 most common job titles and industries
 - Salary distribution by industry
 - Skill-based salary insights (Python, JavaScript, ML)
@@ -38,7 +34,7 @@ Tools & Libraries Used
 - Correlation between salary, AI adoption, and automation risk
 
 
-  Sample Visuals
+  Sample Visuals:
 
 ![job title](10_job_title.png)
 ![Remote Friendly Job Percentage](Remote_Friendly_Job_Percentage.png)
@@ -46,16 +42,20 @@ Tools & Libraries Used
 ![correlation heatmap](correlation_heatmap.png)
 
 
- How to Run
-
+ How to Run : 
 1. Clone this repository:
-
+  bash
+    git clone <repository_url>
+  
 2. Install the required libraries:
-```bash
-pip install pandas seaborn matplotlib folium
+   bash
+    pip install pandas seaborn matplotlib folium
+ 
+3. Run the Python script:
+   bash
+    python data_analysis_project_using_python_and_data_analytics.py
+   
 
-3.Run the Python script:
-python data_analysis_project_using_python_and_data_analytics.py
 
 Alaa Al-Qudah
 Artificial Intelligence & Robotics Student
