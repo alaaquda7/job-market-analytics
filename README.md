@@ -2,9 +2,8 @@ Job Market Analytics Using Python
 
 This project analyzes a dataset of global job market trends with a focus on AI adoption, automation risk, required skills, salary distribution, and remote work potential. It was created as part of a Data Analytics and Business Intelligence course.
 
----
 
-## Dataset
+ Dataset
 
 - File: `ai_job_market_insights.csv`
 - Contains job-related data including:
@@ -19,9 +18,8 @@ This project analyzes a dataset of global job market trends with a focus on AI a
   - Remote-friendly indicator
   - Growth projections
 
----
 
-## Tools & Libraries Used
+Tools & Libraries Used
 
 - **Python**
 - **Pandas**
@@ -29,9 +27,8 @@ This project analyzes a dataset of global job market trends with a focus on AI a
 - **Folium** (geospatial visualization)
 - **Git & GitHub**
 
----
 
-## Key Analyses
+ Key Analyses
 
 - Top 10 most common job titles and industries
 - Salary distribution by industry
@@ -40,18 +37,16 @@ This project analyzes a dataset of global job market trends with a focus on AI a
 - Geographical distribution of jobs
 - Correlation between salary, AI adoption, and automation risk
 
----
 
-##  Sample Visuals
+  Sample Visuals
 
-###  Remote Job Distribution
-![Remote Friendly Jobs](images/rRemote Friendly Job Percentage.png)
+![job title](10 job title.png)
+![Remote Friendly Job Percentage](Remote Friendly Job Percentage.png)
+![Salary Distribution by Industry](Salary Distribution by Indstry.png)
+![correlation heatmap](correlation_heatmap.png)
 
-### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
----
 
-## How to Run
+ How to Run
 
 1. Clone this repository:
 
