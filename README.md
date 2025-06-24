@@ -44,8 +44,11 @@ This project analyzes a dataset of global job market trends with a focus on AI a
 
 ##  Sample Visuals
 
-> _(Screenshots or charts can be uploaded to the repo and displayed here if desired)_
+###  Remote Job Distribution
+![Remote Friendly Jobs](images/rRemote Friendly Job Percentage.png)
 
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
 ---
 
 ## How to Run
