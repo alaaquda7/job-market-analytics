@@ -40,9 +40,9 @@ Tools & Libraries Used
 
   Sample Visuals
 
-![job title](10 job title.png)
-![Remote Friendly Job Percentage](Remote Friendly Job Percentage.png)
-![Salary Distribution by Industry](Salary Distribution by Indstry.png)
+![job title](10_job_title.png)
+![Remote Friendly Job Percentage](Remote_Friendly_Job_Percentage.png)
+![Salary Distribution by Industry](Salary_Distribution_by_Industry.png)
 ![correlation heatmap](correlation_heatmap.png)
 
 
